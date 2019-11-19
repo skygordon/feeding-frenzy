@@ -12,7 +12,7 @@ If an animal is fed it and the food it was fed will be removed. A food can feed 
 
 Different types of zookeepers have different prices, throw speeds and throw intervals:
 
-|                 | Price | Throw Interval | Throw Speed |
+| Zookeeper Types | Price | Throw Interval | Throw Speed |
 | :-------------- |:-----:|:--------------:| :----------:|
 Speedy Zookeeper: |   9   |       55       |     20      |
 Thrifty Zookeeper:|   7   |       45       |      7      |
