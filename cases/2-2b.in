@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo5-corner-to-corner.json",
+    "events": ["ThriftyZookeeper","CheeryZookeeper", [230, 245]],
+    "money": 5,
+    "num_allowed_unfed": 1,
+    "spawn_interval": 100,
+    "animal_speed":0
+}

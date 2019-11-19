@@ -1,0 +1,9 @@
+{
+    "type": "replay",
+    "map": "zoo7-ugly-path.json",
+    "events": ["CheeryZookeeper", [450, 70], [451,71], [550, 400]],
+    "money": 200,
+    "num_allowed_unfed": 1,
+    "spawn_interval": 100,
+    "animal_speed":0
+}
